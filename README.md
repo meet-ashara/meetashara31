@@ -2,7 +2,7 @@
 
 🔹 **Python Developer | Web Scraping & Automation | API Development**  
 🔹 Passionate about turning raw data into useful insights with **FastAPI, Flask & Django**  
-🔹 Interested in **AI/ML, Data Science, and Backend Development**  
+🔹 Interested in ** Data Engineer,AI/ML, Data Science, and Backend Development**  
 
 ---
 
