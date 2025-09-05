@@ -19,7 +19,7 @@ I believe in *learning by building* and solving real-world problems with code.
 
 ### 🌍 Connect with Meet Ashara  
 [![LinkedIn](https://img.shields.io/badge/Meet%20Ashara%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meetashara/)  
-[![GitHub](https://img.shields.io/badge/Meet%20Ashara%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/meetashara31)  
+[![GitHub](https://img.shields.io/badge/Meet%20Ashara%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/meet-ashara)  
 [![Instagram](https://img.shields.io/badge/Meet%20Ashara%20on%20Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/meet_ashara/)  
 [![Portfolio](https://img.shields.io/badge/Meet%20Ashara%20Portfolio-green?style=for-the-badge&logo=firefox)](https://yourportfolio.com)  
 
@@ -34,10 +34,10 @@ I believe in *learning by building* and solving real-world problems with code.
 ---
 
 ### 📊 GitHub Stats & Activity  
-![Meet Ashara GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetashara31&show_icons=true&theme=radical)  
-![Meet Ashara Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetashara31&layout=compact&theme=radical)  
-![Meet Ashara Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=meetashara31&theme=radical)  
-![Meet Ashara Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meetashara31&theme=react-dark)  
+![Meet Ashara GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet-ashara&show_icons=true&theme=radical)  
+![Meet Ashara Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-ashara&layout=compact&theme=radical)  
+![Meet Ashara Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=meet-ashara&theme=radical)  
+![Meet Ashara Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meet-ashara&theme=react-dark)  
 
 ---
 
@@ -46,7 +46,7 @@ I believe in *learning by building* and solving real-world problems with code.
 - 📊 **Price Tracker** → Python script to monitor and log price changes into a database  
 - 🤖 **Automation Scripts** → Custom bots for scraping, scheduling, and data cleaning  
 
-👉 Check out all my repositories [here](https://github.com/meetashara31?tab=repositories)  
+👉 Check out all my repositories [here](https://github.com/meet-ashara?tab=repositories)  
 
 ---
 
